@@ -212,7 +212,6 @@
       "name": {
         "en": "Airthings Wave"
       },
-      "deprecated": true,
       "platforms": [
         "local"
       ],
